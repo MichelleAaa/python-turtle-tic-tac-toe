@@ -11,7 +11,7 @@ screen.bgcolor("AliceBlue")
 screen.bgcolor("beige")
 screen.setup(width=800, height=800)
 
-delay = 0.1
+delay = 0.1   
 
 #Draw Board
 board = turtle.Turtle()
