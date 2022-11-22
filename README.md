@@ -61,6 +61,17 @@ A new window will appear which will show the game board and instructions.
 
 Your goal is to get three adjacent X's, either in a row, column, or diagonal. You also will need to block the opponent from getting three adjacent O's. Good Luck!
 
+## Alternatively, View Live
+
+Open a web browser [here](https://replit.com/@michelleaaa/tic-tac-toe-game#main.py).
+
+Click the full screen button, and then the run button to launch the project.
+
+![View on Replit](img/python-turtle-tic-tac-toe-game-6.png "Please be sure to enter full screen mode.")
+
+After the tic-tac-toe board appears, please be sure to click anywhere in the window so your keyboard number presses register.
+
+
 ## Reflection
 
 I created this application after finishing the Python courses in NuCamp's Back End, SQL, and DevOps Developer with Python bootcamp. After reviewing tutorials on modules I decided to code this with turtle as it's a relatively beginner-friendly option. The random, functools, and time modules were also added in to increase functionality. To make the game harder to win a detailed computer_turn function was coded instead of relying on only a random number selection. The function will more aggressively block player wins and look for it's own wins.
